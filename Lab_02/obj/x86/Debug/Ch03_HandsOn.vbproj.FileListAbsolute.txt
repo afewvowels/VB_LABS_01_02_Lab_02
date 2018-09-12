@@ -1,0 +1,11 @@
+C:\Users\adepinto\Documents\Personal\YSU\Teaching\2011\Projects\Ch03_HandsOn\Ch03_HandsOn\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\adepinto\Documents\Personal\YSU\Teaching\2011\Projects\Ch03_HandsOn\Ch03_HandsOn\obj\x86\Debug\Ch03_HandsOn.BookSaleForm.resources
+C:\Users\adepinto\Documents\Personal\YSU\Teaching\2011\Projects\Ch03_HandsOn\Ch03_HandsOn\obj\x86\Debug\Ch03_HandsOn.Resources.resources
+C:\Users\adepinto\Documents\Personal\YSU\Teaching\2011\Projects\Ch03_HandsOn\Ch03_HandsOn\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\adepinto\Documents\Personal\YSU\Teaching\2011\Projects\Ch03_HandsOn\Ch03_HandsOn\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\adepinto\Documents\Personal\YSU\Teaching\2011\Projects\Ch03_HandsOn\Ch03_HandsOn\bin\Debug\Ch03_HandsOn.exe
+C:\Users\adepinto\Documents\Personal\YSU\Teaching\2011\Projects\Ch03_HandsOn\Ch03_HandsOn\bin\Debug\Ch03_HandsOn.pdb
+C:\Users\adepinto\Documents\Personal\YSU\Teaching\2011\Projects\Ch03_HandsOn\Ch03_HandsOn\bin\Debug\Ch03_HandsOn.xml
+C:\Users\adepinto\Documents\Personal\YSU\Teaching\2011\Projects\Ch03_HandsOn\Ch03_HandsOn\obj\x86\Debug\Ch03_HandsOn.exe
+C:\Users\adepinto\Documents\Personal\YSU\Teaching\2011\Projects\Ch03_HandsOn\Ch03_HandsOn\obj\x86\Debug\Ch03_HandsOn.xml
+C:\Users\adepinto\Documents\Personal\YSU\Teaching\2011\Projects\Ch03_HandsOn\Ch03_HandsOn\obj\x86\Debug\Ch03_HandsOn.pdb
